@@ -1,14 +1,14 @@
 //
-//  AppDelegate.m
+//  CardGameAppDelegate.m
 //  Matchismo
 //
-//  Created by Angel on 13/02/13.
-//  Copyright (c) 2013 Angel Palencia. All rights reserved.
+//  Created by Angel on 29/01/13.
+//  Copyright (c) 2013 apc. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "CardGameAppDelegate.h"
 
-@implementation AppDelegate
+@implementation CardGameAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {

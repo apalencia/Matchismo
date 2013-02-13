@@ -2,17 +2,17 @@
 //  main.m
 //  Matchismo
 //
-//  Created by Angel on 13/02/13.
-//  Copyright (c) 2013 Angel Palencia. All rights reserved.
+//  Created by Angel on 29/01/13.
+//  Copyright (c) 2013 apc. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-#import "AppDelegate.h"
+#import "CardGameAppDelegate.h"
 
 int main(int argc, char *argv[])
 {
     @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([CardGameAppDelegate class]));
     }
 }
