@@ -179,7 +179,7 @@
 			attributes = {
 				CLASSPREFIX = CardGame;
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = apc;
+				ORGANIZATIONNAME = "Angel Palencia";
 			};
 			buildConfigurationList = 0BDC3D6516B80D2600400B1C /* Build configuration list for PBXProject "Matchismo" */;
 			compatibilityVersion = "Xcode 3.2";
